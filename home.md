@@ -50,6 +50,8 @@ O propósito desse documento é elaborar um aplicativo para smartphones que iden
 
 :clock3: [US13 - Forçar usuário a responder questionário novamente a cada 30 dias e modificar rotina de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
 
-:clock3:  [US14 - Editar diário de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:clock3: [US14 - Editar diário de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+
+:construction: [US15 - Preencher pesquisa](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
 
 ## Requisitos Não-Funcionais

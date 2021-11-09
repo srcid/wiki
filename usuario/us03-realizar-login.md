@@ -13,3 +13,7 @@ O usuário poderá realizar o login no através do de e-mail, vinculo com o goog
 ## Captura de tela
 
 <img alt="Tela de login" src="../uploads/img/login.png" style="display: block; margin-left: auto; margin-right: auto; width: 40%; min-width: 250px;">
+
+## Critérios não atendidos
+
+- Falta o vinculo com facebook e google.

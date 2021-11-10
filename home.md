@@ -44,14 +44,14 @@ O propósito desse documento é elaborar um aplicativo para smartphones que iden
 
 :clock3:  [US10 - Fornecer _feedback_ com o motivo de não ter realizado uma atividade recomendada pelo aplicativo](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/us10-fornecer-feedback-com-o-motivo-de-nao-ter-realizado-uma-atividade-recomendada-pelo-aplicativo-para-o-usuario)
 
-:clock3: [US11 - Fornecer _feedback_ de tempo de duração de uma atividade recomendada pelo aplicativo](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:clock3: [US11 - Fornecer _feedback_ de tempo de duração de uma atividade recomendada pelo aplicativo](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/usuario/us11-fornecer-feedback-de-tempo-de-duracao-de-uma-atividade-recomendada-pelo-aplicativo)
 
-:clock3: [US12 - Fornecer _feedback_ de intensidade do esforço exigido pela atividade recomendada pelo aplicativo](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:clock3: [US12 - Fornecer _feedback_ de intensidade do esforço exigido pela atividade recomendada pelo aplicativo](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/usuario/us12-fornecer-feedback-de-intensidade-do-esforco-exigido-pela-atividade-recomendada-pelo-aplicativo)
 
-:clock3: [US13 - Forçar usuário a responder questionário novamente a cada 30 dias e modificar rotina de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:clock3: [US13 - Forçar usuário a responder questionário novamente a cada 30 dias e modificar rotina de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/usuario/us13-forcar-usuario-a-responder-questionario-novamente-a-cada-30-dias-e-modificar-rotina-de-atividades)
 
-:clock3: [US14 - Editar diário de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:clock3: [US14 - Editar diário de atividades](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/usuario/us14-editar-diario-de-atividades.md)
 
-:construction: [US15 - Preencher pesquisa](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/)
+:construction: [US15 - Preencher pesquisa](https://git.quixada.ufc.br/npi/AppFisio/-/wikis/usuario/usuario/us15-preencher-pesquisa)
 
 ## Requisitos Não-Funcionais

@@ -4,7 +4,7 @@ Fornecer *feedback* se fez ou não uma atividade recomendada pelo aplicativo
 
 ## Descrição
 
-- Eu como usuário quero receber feedback de atividades que são recomendadas pelo aplicativo
+- Eu como usuário devo informar se fiz ou não qualquer atividade recomendada pelo aplicativo assim que passado o tempo da atividade.
 
 ## Critérios de aceitação
 
